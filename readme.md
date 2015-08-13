@@ -7,7 +7,6 @@ Goal of the project is to combine all previous lessons learned during the Front 
 
 Usage Instructions
 ==================
-run the app: [http://vonderheiden.github.io/FEND-P5-map/](http://vonderheiden.github.io/FEND-P5-map/)
 
 The browser shows a Google Map of Bay Area, with several museum locations as markers on the map. 
 
