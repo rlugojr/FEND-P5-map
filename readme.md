@@ -7,7 +7,9 @@ Goal of the project is to combine all previous lessons learned during the Front 
 
 Usage Instructions
 ==================
-Download or clone files from: http://vonderheiden.github.io/FEND-neigborhood-map-v6
+Download or clone files from: http://github.com/vonderheiden/FEND-P5-map/
+
+Run the app: [http://vonderheiden.github.io//FEND-P5-map/
 
 The browser shows a Google Map of Bay Area, with several museum locations as markers on the map. 
 
